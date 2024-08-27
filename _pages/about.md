@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year graduate student interested in homotopy theory and arithmetic geometry.
+I am a third year graduate student interested in homotopy theory and arithmetic geometry.
