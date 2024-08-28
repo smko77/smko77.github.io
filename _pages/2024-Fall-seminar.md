@@ -1,5 +1,5 @@
 ---
-permalink: /seminars/2024-Fall-stable-hommotopy-theory
+permalink: /seminars/2024-fall-stable-homotopy-theory
 title: "Seminar on stable homotopy theory (Fall 2024)"
 author_profile: true
 ---
