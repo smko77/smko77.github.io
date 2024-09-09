@@ -27,6 +27,10 @@ This seminar is intended for graduate student. The participants are encouraged t
 ## Schedule
 
 1. Spectra : definition and examples
+    * Location : Math Lounge
+    * Date : 9/9 (Mon) 12:00 pm ~ 1:00 pm
+    * Speaker : Sangmin Ko
+    * Abstract : In this talk, we will define spectra and Omega spectra and explain how generalized cohomology theories gives rise to Omega spectra via Brown representability. We will discuss some examples of spectra and its basic properties.
 2. The homotopy category of spectra
 3. Smash product
 4. Homology, Cohomology and products
