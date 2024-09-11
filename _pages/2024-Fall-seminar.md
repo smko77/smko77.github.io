@@ -8,8 +8,8 @@ The goal of this seminar is to introduce the notion of spectra and study its bas
 
 This seminar is intended for graduate student. The participants are encouraged to prepare and give a talk.
 
-- When : TBD
-- Where : TBD
+- When : Monday 12:00 pm ~ 1:00 pm
+- Where : Mathematics Hall, Room 528
 - Organizer : Sangmin Ko
 - References
     - [Ada74] J.F. Adams, Stable homotopy and generalized homology, Part III, The University of Chicago Press, 1974, [pdf](https://people.math.rochester.edu/faculty/doug/otherpapers/Adams-SHGH-latex.pdf)
@@ -26,21 +26,29 @@ This seminar is intended for graduate student. The participants are encouraged t
     
 ## Schedule
 
-1. Spectra : definition and examples
-    * Location : Math Lounge
-    * Date : 9/9 (Mon) 12:00 pm ~ 1:00 pm
-    * Speaker : Sangmin Ko
-    * Abstract : In this talk, we will define spectra and Omega spectra and explain how generalized cohomology theories gives rise to Omega spectra via Brown representability. We will discuss some examples of spectra and its basic properties.
-2. The homotopy category of spectra
-3. Smash product
-4. Homology, Cohomology and products
-5. Derived inverse limit and the Milnor exact sequence
-6. Spainer-Whitehead duality and Alexander duality
-7. Atiyah duality
-8. The Atiyah-Hirzebruch spectral sequence
-9. The Adam spectral sequence
-10. The Pontryagin–Thom construction
-11. The classification of smooth manifolds up to cobordisms
+| Date | Speaker | Title |
+| ----- | ------- | ----------- |
+| 9/9 | Sangmin Ko | [Spectra: definition and examples](#talk-1)  |
+| 9/16 | TBD | The homotopy category of spectra |
+| 9/23 | TBD | Smash product |
+| 9/30 | TBD | Homology, Cohomology and products |
+| 10/7 | TBD | Derived inverse limit and the Milnor exact sequence |
+| 10/14 | TBD | Spainer-Whitehead duality and Atiyah duality |
+| 10/21 | TBD | The Atiyah-Hirzebruch spectral sequence |
+| 10/28 | TBD | The Adam spectral sequence |
+| 11/4 | TBD | The Pontryagin–Thom construction |
+| 11/11 | TBD | The classification of smooth manifolds up to cobordisms |
+| 11/18 | TBD | TBD |
+| 11/25 | TBD | TBD |
+| 12/2 | TBD | TBD |
 
 
 
+
+## Talk List & Abstract
+### Talk 1
+* Title : Spectra : definition and examples ([note](https://smko77.github.io/files/seminar_sh_week1.pdf))
+* Abstract : In this talk, we will define spectra and Omega spectra and explain how generalized cohomology theories gives rise to Omega spectra via Brown representability. We will discuss some examples of spectra and its basic properties.
+
+### Talk 2
+* Title : The homotopy category of spectra
