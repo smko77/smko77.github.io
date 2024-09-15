@@ -29,10 +29,10 @@ This seminar is intended for graduate student. The participants are encouraged t
 | Date | Speaker | Title |
 | ----- | ------- | ----------- |
 | 9/9 | Sangmin Ko | [Spectra: definition and examples](#talk-1)  |
-| 9/16 | TBD | The homotopy category of spectra |
+| 9/16 | Sangmin Ko | [The homotopy category of spectra](#talk-2) |
 | 9/23 | TBD | Smash product |
 | 9/30 | TBD | Homology, Cohomology and products |
-| 10/7 | TBD | Derived inverse limit and the Milnor exact sequence |
+| 10/7 | Alex Scheffelin | Derived inverse limit and the Milnor exact sequence |
 | 10/14 | TBD | Spainer-Whitehead duality and Atiyah duality |
 | 10/21 | TBD | The Atiyah-Hirzebruch spectral sequence |
 | 10/28 | TBD | The Adam spectral sequence |
@@ -52,3 +52,4 @@ This seminar is intended for graduate student. The participants are encouraged t
 
 ### Talk 2
 * Title : The homotopy category of spectra
+* Abstract : In this talk, we will define the homotopy category of spectra and discuss its stability properties. We will prove that suspension indues a self-equivalnce of the stable homotopy category. We will define (co)fiber sequence of spectra and construct the associated long exact sequences. We will explain how the stable homotopy category forms a triangulated category.
