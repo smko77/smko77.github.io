@@ -52,4 +52,4 @@ This seminar is intended for graduate student. The participants are encouraged t
 
 ### Talk 2
 * Title : The homotopy category of spectra
-* Abstract : In this talk, we will define the homotopy category of spectra and discuss its stability properties. We will prove that suspension indues a self-equivalnce of the stable homotopy category. We will define (co)fiber sequence of spectra and construct the associated long exact sequences. We will explain how the stable homotopy category forms a triangulated category.
+* Abstract : In this talk, we will define the homotopy category of spectra and discuss its stability properties. We will prove that suspension induces a self-equivalence of the stable homotopy category. We will define (co)fiber sequence of spectra and construct the associated long exact sequences. We will explain how the stable homotopy category forms a triangulated category.
