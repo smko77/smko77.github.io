@@ -30,18 +30,18 @@ This seminar is intended for graduate student. The participants are encouraged t
 | ----- | ------- | ----------- |
 | 9/9 | Sangmin Ko | [Spectra: definition and examples](#talk-1)  |
 | 9/16 | Sangmin Ko | [The homotopy category of spectra](#talk-2) |
-| 9/23 | TBD | Smash product |
-| 9/30 | TBD | Homology, Cohomology and products |
+| 9/23 | Sangmin Ko | [The smash product](#talk-3) |
+| 9/30 | Felix Roz | Homology, Cohomology and products |
 | 10/7 | Alex Scheffelin | Derived inverse limit and the Milnor exact sequence |
-| 10/14 | TBD | Spainer-Whitehead duality and Atiyah duality |
-| 10/21 | TBD | The Atiyah-Hirzebruch spectral sequence |
-| 10/28 | TBD | The Adam spectral sequence |
-| 11/4 | TBD | The Pontryagin–Thom construction |
-| 11/11 | TBD | The classification of smooth manifolds up to cobordisms |
-| 11/18 | TBD | TBD |
-| 11/25 | TBD | TBD |
-| 12/2 | TBD | TBD |
-
+| 10/14 | TBD | TBD |
+| 10/21 | Amal Mattoo | The Atiyah-Hirzebruch spectral sequence |
+| 10/28 | TBD | Spanier-Whitehead duality and Atiyah duality |
+| 11/4 | TBD |  The Steenrod algebra and its dual |
+| 11/11 | - | Academic Holiday (Election Day) |
+| 11/18 | Carlos Alvarado | The Adam spectral sequence |
+| 11/25 | Sergey Nersisyan | The Pontryagin–Thom construction |
+| 12/2 | TBD | The classification of smooth manifolds up to cobordisms |
+| 12/9 | TBD | TBD |
 
 
 
@@ -53,3 +53,7 @@ This seminar is intended for graduate student. The participants are encouraged t
 ### Talk 2
 * Title : The homotopy category of spectra
 * Abstract : In this talk, we will define the homotopy category of spectra and discuss its stability properties. We will prove that suspension induces a self-equivalence of the stable homotopy category. We will define (co)fiber sequence of spectra and construct the associated long exact sequences. We will explain how the stable homotopy category forms a triangulated category.
+
+### Talk 3
+* Title : The smash prodcut
+* Abstract : This talk introduces the smash product in spectra, which provides a symmetric monoidal structure on both the category of spectra and its homotopy category. We will disuss its key properties and the definition of ring and module spectra. If time permits, we will also cover the point-set level construction using symmetric spectra.
