@@ -31,17 +31,16 @@ This seminar is intended for graduate student. The participants are encouraged t
 | 9/9 | Sangmin Ko | [Spectra: definition and examples](#talk-1)  |
 | 9/16 | Sangmin Ko | [The homotopy category of spectra](#talk-2) |
 | 9/23 | Sangmin Ko | [The smash product](#talk-3) |
-| 9/30 | Felix Roz | Homology, Cohomology and products |
+| 9/30 | Felix Roz | [Homology, Cohomology and products](#talk-4) |
 | 10/7 | Alex Scheffelin | Derived inverse limit and the Milnor exact sequence |
-| 10/14 | TBD | TBD |
+| 10/14 | TBD | Spanier-Whitehead duality and Atiyah duality |
 | 10/21 | Amal Mattoo | The Atiyah-Hirzebruch spectral sequence |
-| 10/28 | TBD | Spanier-Whitehead duality and Atiyah duality |
-| 11/4 | TBD |  The Steenrod algebra and its dual |
-| 11/11 | - | Academic Holiday (Election Day) |
+| 10/28 | TBD | TBD |
+| 11/4 | - |  Academic Holiday (Election Day) |
+| 11/11 | Carlos Alvarado | The Steenrod algebra and its dual |
 | 11/18 | Carlos Alvarado | The Adam spectral sequence |
 | 11/25 | Sergey Nersisyan | The Pontryagin–Thom construction |
 | 12/2 | TBD | The classification of smooth manifolds up to cobordisms |
-| 12/9 | TBD | TBD |
 
 
 
@@ -57,3 +56,9 @@ This seminar is intended for graduate student. The participants are encouraged t
 ### Talk 3
 * Title : The smash prodcut
 * Abstract : This talk introduces the smash product in spectra, which provides a symmetric monoidal structure on both the category of spectra and its homotopy category. We will disuss its key properties and the definition of ring and module spectra. If time permits, we will also cover the point-set level construction using symmetric spectra.
+
+### Talk 4
+* Title : Homology, Cohomology and products
+* Abstract : I will define the homology and cohomology of spectra and show that they satisfy the Eilenberg-Steenrod axioms along with other basic properties expected of homology theories. I will also briefly describe the external, internal, and slant products.
+
+
