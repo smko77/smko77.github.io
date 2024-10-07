@@ -32,10 +32,10 @@ This seminar is intended for graduate student. The participants are encouraged t
 | 9/16 | Sangmin Ko | [The homotopy category of spectra](#talk-2) |
 | 9/23 | Sangmin Ko | [The smash product](#talk-3) |
 | 9/30 | Felix Roz | [Homology, Cohomology and products](#talk-4) |
-| 10/7 | Alex Scheffelin | Derived inverse limit and the Milnor exact sequence |
-| 10/14 | TBD | Spanier-Whitehead duality and Atiyah duality |
+| 10/7 | Alex Scheffelin | [Inverse limit, lim^1 and the Milnor exact sequence](#talk-5) |
+| 10/14 | Felix Roz | Spanier-Whitehead duality and Atiyah duality |
 | 10/21 | Amal Mattoo | The Atiyah-Hirzebruch spectral sequence |
-| 10/28 | TBD | TBD |
+| 10/28 | Ivan Zelich | TBD |
 | 11/4 | - |  Academic Holiday (Election Day) |
 | 11/11 | Carlos Alvarado | The Steenrod algebra and its dual |
 | 11/18 | Carlos Alvarado | The Adam spectral sequence |
@@ -61,4 +61,6 @@ This seminar is intended for graduate student. The participants are encouraged t
 * Title : Homology, Cohomology and products
 * Abstract : I will define the homology and cohomology of spectra and show that they satisfy the Eilenberg-Steenrod axioms along with other basic properties expected of homology theories. I will also briefly describe the external, internal, and slant products.
 
-
+### Talk 5
+* Title : Inverse limit, lim^1, and the Milnor exact sequence
+* Abstract : We will define inverse limits in the context of abelian groups then explore its derived functor, namely its first derived functor lim^1. We then will define, and give a proof (sketch) of the Milnor exact sequence involving lim^1.
