@@ -33,14 +33,14 @@ This seminar is intended for graduate student. The participants are encouraged t
 | 9/23 | Sangmin Ko | [The smash product](#talk-3) |
 | 9/30 | Felix Roz | [Homology, Cohomology and products](#talk-4) |
 | 10/7 | Alex Scheffelin | [Inverse limit, lim^1 and the Milnor exact sequence](#talk-5) |
-| 10/14 | Felix Roz | Spanier-Whitehead duality and Atiyah duality |
+| 10/14 | Felix Roz | [Spanier-Whitehead duality and Atiyah duality](#talk-6) |
 | 10/21 | Amal Mattoo | The Atiyah-Hirzebruch spectral sequence |
 | 10/28 | Ivan Zelich | TBD |
 | 11/4 | - |  Academic Holiday (Election Day) |
 | 11/11 | Carlos Alvarado | The Steenrod algebra and its dual |
 | 11/18 | Carlos Alvarado | The Adam spectral sequence |
 | 11/25 | Sergey Nersisyan | The Pontryagin–Thom construction |
-| 12/2 | TBD | The classification of smooth manifolds up to cobordisms |
+| 12/2 | Sergey Nersisyan | The classification of smooth manifolds up to cobordisms |
 
 
 
@@ -64,3 +64,7 @@ This seminar is intended for graduate student. The participants are encouraged t
 ### Talk 5
 * Title : Inverse limit, lim^1, and the Milnor exact sequence
 * Abstract : We will define inverse limits in the context of abelian groups then explore its derived functor, namely its first derived functor lim^1. We then will define, and give a proof (sketch) of the Milnor exact sequence involving lim^1.
+
+### Talk 6
+* Title : Spanier-Whitehead duality and Atiyah duality
+* Abstract : I will introduce Spanier-Whitehead duality for spectra and explain how it relates their homology and cohomology. I will also introduce Atiyah duality and outline a proof of Poincare duality using it.
