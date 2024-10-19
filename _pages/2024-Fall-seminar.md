@@ -34,7 +34,7 @@ This seminar is intended for graduate student. The participants are encouraged t
 | 9/30 | Felix Roz | [Homology, Cohomology and products](#talk-4) |
 | 10/7 | Alex Scheffelin | [Inverse limit, lim^1 and the Milnor exact sequence](#talk-5) |
 | 10/14 | Felix Roz | [Spanier-Whitehead duality and Atiyah duality](#talk-6) |
-| 10/21 | Amal Mattoo | The Atiyah-Hirzebruch spectral sequence |
+| 10/21 | Amal Mattoo | [The Atiyah-Hirzebruch spectral sequence](#talk-7) |
 | 10/28 | Ivan Zelich | TBD |
 | 11/4 | - |  Academic Holiday (Election Day) |
 | 11/11 | Carlos Alvarado | The Steenrod algebra and its dual |
@@ -68,3 +68,7 @@ This seminar is intended for graduate student. The participants are encouraged t
 ### Talk 6
 * Title : Spanier-Whitehead duality and Atiyah duality
 * Abstract : I will introduce Spanier-Whitehead duality for spectra and explain how it relates their homology and cohomology. I will also introduce Atiyah duality and outline a proof of Poincare duality using it.
+
+### Talk 7
+* Title : The Atiyah-Hirzebruch spectral sequence
+* Abstract : We introduce the Atiyah-Hirzebruch spectral sequence, explaining where it comes from and how to apply it. Examples will include computations of K-theory groups.
