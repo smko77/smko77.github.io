@@ -35,7 +35,7 @@ This seminar is intended for graduate student. The participants are encouraged t
 | 10/7 | Alex Scheffelin | [Inverse limit, lim^1 and the Milnor exact sequence](#talk-5) |
 | 10/14 | Felix Roz | [Spanier-Whitehead duality and Atiyah duality](#talk-6) |
 | 10/21 | Amal Mattoo | [The Atiyah-Hirzebruch spectral sequence](#talk-7) |
-| 10/28 | Ivan Zelich | TBD |
+| 10/28 | Ivan Zelich | [An introduction to E_n-Algebras](#talk-8) |
 | 11/4 | - |  Academic Holiday (Election Day) |
 | 11/11 | Carlos Alvarado | The Steenrod algebra and its dual |
 | 11/18 | Carlos Alvarado | The Adam spectral sequence |
@@ -72,3 +72,7 @@ This seminar is intended for graduate student. The participants are encouraged t
 ### Talk 7
 * Title : The Atiyah-Hirzebruch spectral sequence
 * Abstract : We introduce the Atiyah-Hirzebruch spectral sequence, explaining where it comes from and how to apply it. Examples will include computations of K-theory groups.
+
+### Talk 8
+* Title : An introduction to E_n-Algebras
+* We will give the formal definitions of E_n-Algebras and relate these to factorisation homology. If possible, we will see some applications to deformation theory.
