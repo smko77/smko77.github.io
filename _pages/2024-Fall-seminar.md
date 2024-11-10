@@ -37,7 +37,7 @@ This seminar is intended for graduate student. The participants are encouraged t
 | 10/21 | Amal Mattoo | [The Atiyah-Hirzebruch spectral sequence](#talk-7) |
 | 10/28 | Ivan Zelich | [An introduction to E_n-Algebras](#talk-8) |
 | 11/4 | - |  Academic Holiday (Election Day) |
-| 11/11 | Carlos Alvarado | The Steenrod algebra and its dual |
+| 11/11 | Carlos Alvarado | [The Steenrod algebra and its dual](#talk-9) |
 | 11/18 | Carlos Alvarado | The Adam spectral sequence |
 | 11/25 | Sergey Nersisyan | The Pontryagin–Thom construction |
 | 12/2 | Sergey Nersisyan | The classification of smooth manifolds up to cobordisms |
@@ -76,3 +76,7 @@ This seminar is intended for graduate student. The participants are encouraged t
 ### Talk 8
 * Title : An introduction to E_n-Algebras
 * We will give the formal definitions of E_n-Algebras and relate these to factorisation homology. If possible, we will see some applications to deformation theory.
+
+### Talk 9
+* Title : The Steenrod algebra and its dual
+* We will describe the Steenrod operations and the structure of its algebra and dual algebra. We will see some applications that arise from this.
