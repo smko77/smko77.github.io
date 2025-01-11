@@ -1,6 +1,6 @@
 ---
 permalink: /seminars/2024-fall-stable-homotopy-theory
-title: "Seminar on stable homotopy theory (Fall 2024)"
+title: "Seminar on Stable Homotopy Theory (Fall 2024)"
 author_profile: true
 ---
 
@@ -38,15 +38,15 @@ This seminar is intended for graduate student. The participants are encouraged t
 | 10/28 | Ivan Zelich | [An introduction to E_n-Algebras](#talk-8) |
 | 11/4 | - |  Academic Holiday (Election Day) |
 | 11/11 | Carlos Alvarado | [The Steenrod algebra and its dual](#talk-9) |
-| 11/18 | Carlos Alvarado | The Adam spectral sequence |
-| 11/25 | Sergey Nersisyan | The Pontryagin–Thom construction |
-| 12/2 | Sergey Nersisyan | The classification of smooth manifolds up to cobordisms |
+| 11/18 | Carlos Alvarado | [The Adam spectral sequence](#talk-10) |
+| 11/25 | Sergey Nersisyan | [The Pontryagin–Thom construction](#talk-11) |
+| 12/2 | Sergey Nersisyan | [The classification of smooth manifolds up to cobordisms](#talk-12) |
 
 
 
 ## Talk List & Abstract
 ### Talk 1
-* Title : Spectra : definition and examples ([note](https://smko77.github.io/files/seminar_sh_week1.pdf))
+* Title : Spectra : definition and examples ([note](/files/seminar_sh_week1.pdf))
 * Abstract : In this talk, we will define spectra and Omega spectra and explain how generalized cohomology theories gives rise to Omega spectra via Brown representability. We will discuss some examples of spectra and its basic properties.
 
 ### Talk 2
@@ -80,3 +80,15 @@ This seminar is intended for graduate student. The participants are encouraged t
 ### Talk 9
 * Title : The Steenrod algebra and its dual
 * We will describe the Steenrod operations and the structure of its algebra and dual algebra. We will see some applications that arise from this.
+
+### Talk 10
+* Title : The Adam spectral sequence
+* We will construct the Adams Spectral Sequence and show some example computations.
+
+### Talk 11
+* Title : The Pontryagin–Thom construction
+* I will briefly discuss bordism. Then I will talk about the Pontryagin-Thom construction and sketch a proof of the main theorem. Time permitting I will talk about applications
+
+### Talk 12
+* Title : The classification of smooth manifolds up to cobordisms
+* I will define the Thom spectrum and use it to compute the unoriented bordism ring. Time permitting, I will say a few words about the complex bordism ring
