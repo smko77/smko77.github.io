@@ -11,8 +11,8 @@ We will begin by going through the basic theory of delta rings, and use this the
 A more detailed plan of the seminar including topics for future talks and references can be found [here](/files/Learning_Seminar_Prismatic_Cohomology_Columbia.pdf). Please note that this document is still a work in progress.
 
 
-- When : TBA
-- Where : TBA
+- When : Tuesday 11:00 AM ~ 12:00 pm
+- Where : Mtahematics HALL, Room 528
 - Organizer : Sangmin Ko and Vidhu Adhihetty
 - References
     - [Bha18] [Bhargav Bhatt, *Eilenberg lectures on prismatic cohomology*, (2018)](https://websites.umich.edu/~bhattb/teaching/prismatic-columbia/)
@@ -24,15 +24,24 @@ A more detailed plan of the seminar including topics for future talks and refere
 
 | Date | Speaker | Title |
 | ----- | ------- | ----------- |
-| TBA | TBA | [Overview talk](#talk-1)  |
-| TBA | TBA | [Delta rings](#talk-2) |
-
+| 1/28 | - | [Overview](#talk-1)  |
+| 2/4 | Vidhu Ahihetty | [Delta rings](#talk-2) |
+| 2/11 | Rafah Hajjar Munoz| [Distinguised elements and prisms](#talk-3) |
+| 2/18 | Sofia Wood | [Perfect prisms and perfectoid rings](#talk-4) |
 
 ## Talk List & Abstract
 ### Talk 1
-* Title : Overview talk
+* Title : Overview
 * Abstract : TBA
 
 ### Talk 2
 * Title : Delta rings
+* Abstract : TBA
+
+### Talk 3
+* Title : Distinguised elements and prisms
+* Abstract : TBA
+
+### Tlak 4
+* Title : Perfect prisms and perfectoid rings
 * Abstract : TBA
