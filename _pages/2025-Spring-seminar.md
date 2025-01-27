@@ -32,7 +32,7 @@ A more detailed plan of the seminar including topics for future talks and refere
 ## Talk List & Abstract
 ### Talk 1
 * Title : Overview
-* Abstract : TBA
+* Abstract : We will watch a lecture given by Bhargav Bhatt at the IHES which introduces the motivation and general idea of prismatic cohomology. The lecture will importantly introduce some of the key players which will appear in later talks, such as the prismatic site, and give a rough idea of some of their features.
 
 ### Talk 2
 * Title : Delta rings
