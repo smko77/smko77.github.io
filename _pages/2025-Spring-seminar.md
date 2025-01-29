@@ -12,7 +12,7 @@ A more detailed plan of the seminar including topics for future talks and refere
 
 
 - When : Tuesday 11:00 AM ~ 12:00 pm
-- Where : Mtahematics HALL, Room 528
+- Where : Mathematics Hall, Room 528
 - Organizer : Sangmin Ko and Vidhu Adhihetty
 - References
     - [Bha18] [Bhargav Bhatt, *Eilenberg lectures on prismatic cohomology*, (2018)](https://websites.umich.edu/~bhattb/teaching/prismatic-columbia/)
