@@ -36,7 +36,7 @@ A more detailed plan of the seminar including topics for future talks and refere
 
 ### Talk 2
 * Title : Delta rings
-* Abstract : TBA
+* Abstract : In this talk, we will define delta rings, which in spirit are rings with an analogue of p-differentiation. We will make this vague idea more precise in the talk, and also explore some of the key properties of delta rings which make them ideal for our future purposes. We will end on a discussion of p-adically complete perfect delta rings, which will be categorically equivalent to characteristic p perfect rings via Witt vectors.
 
 ### Talk 3
 * Title : Distinguised elements and prisms
