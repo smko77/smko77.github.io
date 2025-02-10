@@ -40,7 +40,7 @@ A more detailed plan of the seminar including topics for future talks and refere
 
 ### Talk 3
 * Title : Distinguised elements and prisms
-* Abstract : TBA
+* Abstract : The goal of this section is to introduce the notion of prisms. To work effectively with prisms, it will be useful to define the notion of distinguished elements of a delta ring, which are essentially elements that behave as if they vanish to order 1 with respect to the p-derivation. We will also need a better notion of completions along an ideal, since the classical notion does not behave well in this setting. This issue will be solved by introducing the technical notion of derived completeness
 
 ### Tlak 4
 * Title : Perfect prisms and perfectoid rings
