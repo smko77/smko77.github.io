@@ -35,7 +35,7 @@ A more detailed plan of the seminar including topics for future talks and refere
 * Abstract : We will watch a lecture given by Bhargav Bhatt at the IHES which introduces the motivation and general idea of prismatic cohomology. The lecture will importantly introduce some of the key players which will appear in later talks, such as the prismatic site, and give a rough idea of some of their features.
 
 ### Talk 2
-* Title : Delta rings
+* Title : Delta rings [(note)](/files/Delta_Rings.pdf)
 * Abstract : In this talk, we will define delta rings, which in spirit are rings with an analogue of p-differentiation. We will make this vague idea more precise in the talk, and also explore some of the key properties of delta rings which make them ideal for our future purposes. We will end on a discussion of p-adically complete perfect delta rings, which will be categorically equivalent to characteristic p perfect rings via Witt vectors.
 
 ### Talk 3
