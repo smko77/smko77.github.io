@@ -26,7 +26,7 @@ A more detailed plan of the seminar including topics for future talks and refere
 | ----- | ------- | ----------- |
 | 1/28 | - | [Overview](#talk-1)  |
 | 2/4 | Vidhu Ahihetty | [Delta rings](#talk-2) |
-| 2/11 | Rafah Hajjar Munoz| [Distinguised elements and prisms](#talk-3) |
+| 2/11 | Rafah Hajjar Munoz| [Distinguished elements and prisms](#talk-3) |
 | 2/18 | Sofia Wood | [Perfect prisms and perfectoid rings](#talk-4) |
 
 ## Talk List & Abstract
@@ -39,9 +39,11 @@ A more detailed plan of the seminar including topics for future talks and refere
 * Abstract : In this talk, we will define delta rings, which in spirit are rings with an analogue of p-differentiation. We will make this vague idea more precise in the talk, and also explore some of the key properties of delta rings which make them ideal for our future purposes. We will end on a discussion of p-adically complete perfect delta rings, which will be categorically equivalent to characteristic p perfect rings via Witt vectors.
 
 ### Talk 3
-* Title : Distinguised elements and prisms
+* Title : Distinguished elements and prisms [(note)](/files/Prisms.pdf)
 * Abstract : The goal of this section is to introduce the notion of prisms. To work effectively with prisms, it will be useful to define the notion of distinguished elements of a delta ring, which are essentially elements that behave as if they vanish to order 1 with respect to the p-derivation. We will also need a better notion of completions along an ideal, since the classical notion does not behave well in this setting. This issue will be solved by introducing the technical notion of derived completeness
 
-### Tlak 4
+### Talk 4
 * Title : Perfect prisms and perfectoid rings
 * Abstract : TBA
+
+
