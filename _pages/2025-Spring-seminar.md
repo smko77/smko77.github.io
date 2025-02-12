@@ -28,6 +28,16 @@ A more detailed plan of the seminar including topics for future talks and refere
 | 2/4 | Vidhu Ahihetty | [Delta rings](#talk-2) |
 | 2/11 | Rafah Hajjar Munoz| [Distinguished elements and prisms](#talk-3) |
 | 2/18 | Sofia Wood | [Perfect prisms and perfectoid rings](#talk-4) |
+| 2/25 | - | [The prismatic site](#talk-5) |
+| 3/4 | - | [The Hodge-Tate and crystalline comparison theorems](#talk-6) |
+| 3/11 | - | [Derived prismatic cohomology](#talk-7) |
+| 3/18 | - | Spring break |
+| 3/25 | - | [Perfections in mixed characteristic](#talk-8) |
+| 4/1 | - | [The &eacute;tale comparison theorem](#talk-9) |
+| 4/8 | - | [The q-de Rham complex](#talk-10) |
+| 4/15 | - | [q-crystalline cohomology](#talk-11) |
+| 4/22 | - | [Prismatic cohomology via THH I](#talk-12) |
+| 4/29 | - | [Prismatic cohomology via THH II](#talk-13) |
 
 ## Talk List & Abstract
 ### Talk 1
