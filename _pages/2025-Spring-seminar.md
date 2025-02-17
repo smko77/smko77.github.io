@@ -54,7 +54,7 @@ A more detailed plan of the seminar including topics for future talks and refere
 
 ### Talk 4
 * Title : Perfect prisms and perfectoid rings
-* Abstract : TBA
+* Abstract : We discuss perfect prisms, perfectoid rings and how they are essentially the same. We also give some properties of perfectoid rings.
 
 ### Talk 5
 * Title : The prismatic site
