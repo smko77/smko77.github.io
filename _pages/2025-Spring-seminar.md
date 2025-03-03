@@ -57,13 +57,12 @@ A more detailed plan of the seminar including topics for future talks and refere
 * Abstract : We discuss perfect prisms, perfectoid rings and how they are essentially the same. We also give some properties of perfectoid rings.
 
 ### Talk 5
-* Title : The prismatic site
-* Abstract : TBA
-
+* Title : The prismatic site [(note)](/files/The_Prismatic_Site.pdf)
+* Abstract : We define the prismatic site and explore some of its features. We then define the prismatic complex and the Hodge-Tate complex as the cohomology complexes of certain "structure" sheaves on the site. We end with a discussion of the Hodge-Tate comparison theorem.
 
 ### Talk 6
 * Title : The Hodge-Tate and crystalline comparison theorems
-* Abstract : TBA
+* Abstract : We aim to prove the Hodge Tate comparison theorem. To do so, we discuss derived prismatic cohomology and how it can be used to reduce to the smooth situation. There we will discuss how crystalline cohomology relates to prismatic cohomology modulo p.
 
 ### Talk 7
 * Title : Derived prismatic cohomology
