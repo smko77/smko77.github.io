@@ -66,9 +66,6 @@ A more detailed plan of the seminar including topics for future talks and refere
 
 ### Talk 7
 * Title : Derived prismatic cohomology
-* Abstract : TBA
-
-
-
+* Abstract : We introduce non-abelian derived functor to extend the notion of prismatic cohomology to non-smooth case and generalize Hodge-Tate comparison theorem in non-smooth case. We discuss how to compute derived prismatic cohomology by descent to quasi-regular semi-perfectoid rings, which will be useful in later talks.
 
 
