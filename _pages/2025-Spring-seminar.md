@@ -32,8 +32,8 @@ A more detailed plan of the seminar including topics for future talks and refere
 | 3/4 | Ivan Zelich | [The Hodge-Tate and crystalline comparison theorems](#talk-6) |
 | 3/11 | Sangmin Ko | [Derived prismatic cohomology](#talk-7) |
 | 3/18 | - | Spring break |
-| 3/25 | - | [Perfections in mixed characteristic](#talk-8) |
-| 4/1 | - | [The &eacute;tale comparison theorem](#talk-9) |
+| 3/25 | Ivan Zelich | [The &eacute;tale comparison theorem](#talk-8) |
+| 4/1 | - | [TBD](#talk-9) |
 | 4/8 | - | [The q-de Rham complex](#talk-10) |
 | 4/15 | - | [q-crystalline cohomology](#talk-11) |
 | 4/22 | - | [TBD](#talk-12) |
@@ -67,5 +67,9 @@ A more detailed plan of the seminar including topics for future talks and refere
 ### Talk 7
 * Title : Derived prismatic cohomology
 * Abstract : We introduce non-abelian derived functor to extend the notion of prismatic cohomology to non-smooth case and generalize Hodge-Tate comparison theorem in non-smooth case. We discuss how to compute derived prismatic cohomology by descent to quasi-regular semi-perfectoid rings, which will be useful in later talks.
+
+### Talk 8
+* Title : The &eacute;tale comparison theorem
+* Abstract : We shall discuss mixed characteristic perfection, its relationship to the v/arc topology of a p-adic scheme, and use these themes to deduce the &eacute;tale comparison theorem for prismatic cohomology.
 
 
