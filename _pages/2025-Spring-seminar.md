@@ -33,11 +33,11 @@ A more detailed plan of the seminar including topics for future talks and refere
 | 3/11 | Sangmin Ko | [Derived prismatic cohomology](#talk-7) |
 | 3/18 | - | Spring break |
 | 3/25 | Ivan Zelich | [The &eacute;tale comparison theorem](#talk-8) |
-| 4/1 | - | [TBD](#talk-9) |
-| 4/8 | - | [The q-de Rham complex](#talk-10) |
-| 4/15 | - | [q-crystalline cohomology](#talk-11) |
-| 4/22 | - | [TBD](#talk-12) |
-| 4/29 | - | [Prismatic cohomology via THH](#talk-13) |
+| 4/1 | Vidhu Ahihetty | [q-de Rham and q-crystalline cohomology](#talk-9) |
+| 4/8 | Vidhu Ahihetty | [Kodaira Vanishing - Part I](#talk-10) |
+| 4/15 | Vidhu Ahihetty | [Kodaira Vanishing - Part II](#talk-11) |
+| 4/22 | Sangmin Ko | [Prismatic cohomology via THH - Part I](#talk-12) |
+| 4/29 | Sangmin Ko | [Prismatic cohomology via THH - Part II](#talk-13) |
 
 ## Talk List & Abstract
 ### Talk 1
@@ -71,5 +71,13 @@ A more detailed plan of the seminar including topics for future talks and refere
 ### Talk 8
 * Title : The &eacute;tale comparison theorem
 * Abstract : We shall discuss mixed characteristic perfection, its relationship to the v/arc topology of a p-adic scheme, and use these themes to deduce the &eacute;tale comparison theorem for prismatic cohomology.
+
+### Talk 9
+* Title : q-de Rham and q-crystalline cohomology
+* Abstract : We will define q-deRham complexes for "framed" smooth Z_p algebras by first defining the notion for polynomial rings, and then extending via the framing (in this context, a "framing" should be thought of as giving a set of coordinates on the smooth Z_p algebra). This construction will, unfortunately, depend on the choice of framing. However, we will show, by introducing q-crystalline cohomology, that the above construction is independent of the framing when one passes to the derived setting.
+
+### Talk 10
+* Title : Kodaira Vanishing - Part I
+* Abstract : In the first of the two talks on mixed characteristic Kodaira vanishing, we will introduce the main theorem as an analogue of the classical Kodaira vanishing theorem. We will also explain how it relates to Cohen-Macaulayness of absolute integral closures of rings, and lay out the proof the new Kodaira vanishing theorem. A serious input will be Bhatt and Lurie's p-adic Riemann-Hilbert correspondence. In this talk, we will work modulo this correspondence, and leave discussions of p-adic Riemann-Hilbert for the second talk.
 
 
