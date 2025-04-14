@@ -35,7 +35,7 @@ A more detailed plan of the seminar including topics for future talks and refere
 | 3/25 | Ivan Zelich | [The &eacute;tale comparison theorem](#talk-8) |
 | 4/1 | Vidhu Ahihetty | [q-de Rham and q-crystalline cohomology](#talk-9) |
 | 4/8 | Vidhu Ahihetty | [Kodaira Vanishing - Part I](#talk-10) |
-| 4/15 | Vidhu Ahihetty | [Kodaira Vanishing - Part II](#talk-11) |
+| 4/15 | Ivan Zelich | [Kodaira Vanishing - Part II](#talk-11) |
 | 4/22 | Sangmin Ko | [Prismatic cohomology via THH - Part I](#talk-12) |
 | 4/29 | Sangmin Ko | [Prismatic cohomology via THH - Part II](#talk-13) |
 
@@ -80,4 +80,6 @@ A more detailed plan of the seminar including topics for future talks and refere
 * Title : Kodaira Vanishing - Part I
 * Abstract : In the first of the two talks on mixed characteristic Kodaira vanishing, we will introduce the main theorem as an analogue of the classical Kodaira vanishing theorem. We will also explain how it relates to Cohen-Macaulayness of absolute integral closures of rings, and lay out the proof the new Kodaira vanishing theorem. A serious input will be Bhatt and Lurie's p-adic Riemann-Hilbert correspondence. In this talk, we will work modulo this correspondence, and leave discussions of p-adic Riemann-Hilbert for the second talk.
 
-
+### Talk 11
+* Title : Kodaira Vanishing - Part II
+* Abstract: In the previous talk we discussed Bhatt's elegant theorem and saw glimpses of just how deep the theorem is via the complicated theories that were used to prove it. Our goal now is to describe in more detail these theories i.e. log prismatic cohomology and the Riemann-Hilbert correspondence in mixed characteristic, with the goal of further filing in the skeleton of Bhatt's proof.
