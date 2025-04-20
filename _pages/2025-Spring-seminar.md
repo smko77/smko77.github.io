@@ -36,7 +36,7 @@ A more detailed plan of the seminar including topics for future talks and refere
 | 4/1 | Vidhu Ahihetty | [q-de Rham and q-crystalline cohomology](#talk-9) |
 | 4/8 | Vidhu Ahihetty | [Kodaira Vanishing - Part I](#talk-10) |
 | 4/15 | Ivan Zelich | [Kodaira Vanishing - Part II](#talk-11) |
-| 4/22 | Sangmin Ko | [Prismatic cohomology via THH - Part I](#talk-12) |
+| 4/22 | Carlos Alvarado | [Prismatic cohomology via THH - Part I](#talk-12) |
 | 4/29 | Sangmin Ko | [Prismatic cohomology via THH - Part II](#talk-13) |
 
 ## Talk List & Abstract
